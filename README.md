@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=VrushabhDhondge&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=VrushabhDhondge&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -60,9 +60,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VrushabhDhondge&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=VrushabhDhondge&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrushabhDhondge&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VrushabhDhondge&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -82,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
