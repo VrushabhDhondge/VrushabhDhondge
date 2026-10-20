@@ -54,6 +54,7 @@
 |---|---|---|
 | 🤖 Predictive Maintenance | Predict machine failures using IoT sensor data | Python, LightGBM, SMOTE, ONNX |
 | 📰 Fake News Detection | Classify news articles as Fake or Real using NLP and ML | Python, Scikit-learn, NLTK, TF-IDF, Streamlit |
+|✈️ Dynamic Pricing RL | Optimize ticket pricing using Reinforcement Learning to maximize revenue | Python, Q-Learning, DQN, Streamlit |
 
 ---
 
